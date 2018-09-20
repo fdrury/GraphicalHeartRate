@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="48" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="49" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="50" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="52" pc="268435497" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="55" pc="268435520" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="56" pc="268435524" symbol="onLayout"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="63" pc="268435559" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="64" pc="268435563" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="65" pc="268435596" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="66" pc="268435609" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="67" pc="268435622" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="68" pc="268435638" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="69" pc="268435669" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="70" pc="268435699" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="74" pc="268435715" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="75" pc="268435728" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="81" pc="268435747" symbol="compute"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="84" pc="268435774" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="85" pc="268435778" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="86" pc="268435792" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="87" pc="268435806" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="88" pc="268435838" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="90" pc="268435874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="93" pc="268436008" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="97" pc="268436126" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="98" pc="268436139" symbol="onUpdate"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="103" pc="268436157" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="104" pc="268436161" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="105" pc="268436178" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="107" pc="268436210" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="108" pc="268436229" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="109" pc="268436248" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="111" pc="268436255" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="112" pc="268436262" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="113" pc="268436355" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="114" pc="268436359" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="115" pc="268436378" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="116" pc="268436385" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="120" pc="268436397" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="121" pc="268436404" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="123" pc="268436417" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="124" pc="268436424" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="128" pc="268436506" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="129" pc="268436506" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="130" pc="268436510" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="131" pc="268436529" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="133" pc="268436536" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="136" pc="268436559" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="156" pc="268436572" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="157" pc="268436582" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="158" pc="268436599" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="161" pc="268436615" symbol="plotHRData2"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="165" pc="268436656" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="166" pc="268436660" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="167" pc="268436667" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="168" pc="268436674" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="169" pc="268436681" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="171" pc="268436688" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="172" pc="268436705" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="174" pc="268436737" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="175" pc="268436756" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="176" pc="268436775" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="177" pc="268436782" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="178" pc="268436789" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="179" pc="268436799" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="182" pc="268436812" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="183" pc="268436819" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="184" pc="268436912" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="185" pc="268436916" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="186" pc="268436935" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="187" pc="268436945" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="188" pc="268436952" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="192" pc="268436964" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="193" pc="268436971" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="195" pc="268436984" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="196" pc="268436991" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="199" pc="268437073" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="200" pc="268437093" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="201" pc="268437106" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="204" pc="268437133" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="205" pc="268437146" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="209" pc="268437159" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="210" pc="268437159" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="211" pc="268437163" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="212" pc="268437182" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="214" pc="268437189" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="217" pc="268437212" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="243" pc="268437225" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="244" pc="268437270" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="245" pc="268437306" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="248" pc="268437370" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="249" pc="268437390" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="251" pc="268437459" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="255" pc="268437546" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="256" pc="268437577" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="257" pc="268437613" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="259" pc="268437671" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="260" pc="268437691" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="262" pc="268437757" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="273" pc="268437841" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="274" pc="268437851" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="275" pc="268437868" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="277" pc="268437884" symbol="plotHRData2ACTUAL"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="280" pc="268437919" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="282" pc="268437923" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="283" pc="268437951" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="285" pc="268437963" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="286" pc="268437982" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="287" pc="268437989" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="288" pc="268437997" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="289" pc="268438017" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="290" pc="268438037" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="291" pc="268438057" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="292" pc="268438077" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="296" pc="268438097" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="297" pc="268438110" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="298" pc="268438140" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="299" pc="268438150" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="300" pc="268438179" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="301" pc="268438190" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="303" pc="268438200" symbol="fillUpScreen"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="308" pc="268438287" symbol="drawHRzoneDividers"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="310" pc="268438291" symbol="drawHRzoneDividers"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="311" pc="268438327" symbol="drawHRzoneDividers"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="312" pc="268438344" symbol="drawHRzoneDividers"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="313" pc="268438380" symbol="drawHRzoneDividers"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="318" pc="268438470" symbol="HR2height"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="319" pc="268438474" symbol="HR2height"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="320" pc="268438508" symbol="HR2height"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="321" pc="268438524" symbol="HR2height"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateView.mc" lineNum="322" pc="268438561" symbol="HR2height"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateApp.mc" lineNum="4" pc="268438583" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateApp.mc" lineNum="5" pc="268438587" symbol="initialize"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateApp.mc" lineNum="8" pc="268438606" symbol="onStart"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateApp.mc" lineNum="9" pc="268438610" symbol="onStart"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateApp.mc" lineNum="12" pc="268438614" symbol="getInitialView"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateApp.mc" lineNum="13" pc="268438618" symbol="getInitialView"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateApp.mc" lineNum="16" pc="268438656" symbol="onStop"/>
+<entry filename="C:\\Users\\fred\\workspace\\GraphicalHeartRate2\\source\\GraphicalHeartRateApp.mc" lineNum="17" pc="268438660" symbol="onStop"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="13" symbol="hrHistory"/>
+<entry id="8389781" module="true" symbol="SensorHistory"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="19" symbol="dataDuration2"/>
+<entry field="true" id="11" symbol="NUMBER_OF_DATA_POINTS"/>
+<entry field="true" id="18" symbol="numPoints"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="26" method="true" symbol="HR2height"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="12" symbol="HR_NOT_SET"/>
+<entry field="true" id="14" symbol="currentHR"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="10" object="true" symbol="GraphicalHeartRateApp"/>
+<entry field="true" id="17" symbol="graphPointWidth"/>
+<entry field="true" id="20" symbol="lastFirstHalfSum"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="30" symbol="AppName"/>
+<entry id="9" object="true" symbol="GraphicalHeartRateView"/>
+<entry id="8388647" module="true" symbol="UserProfile"/>
+<entry id="23" method="true" symbol="plotHRData2ACTUAL"/>
+<entry field="true" id="29" symbol="LauncherIcon"/>
+<entry id="25" method="true" symbol="drawHRzoneDividers"/>
+<entry id="24" method="true" symbol="fillUpScreen"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="22" method="true" symbol="plotHRData2"/>
+<entry field="true" id="8389743" symbol="backgroundColor"/>
+<entry field="true" id="16" symbol="heartRateZones"/>
+<entry field="true" id="8388651" symbol="session"/>
+<entry id="28" module="true" symbol="Layouts"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="15" symbol="userProfile"/>
+<entry id="27" module="true" symbol="Menus"/>
+<entry field="true" id="21" symbol="lastSecondHalfSum"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="8389742" symbol="foregroundColor"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435559" name="dc" stackId="1" startPc="268435520"/>
+<entry endPc="268435712" name="elapsedTime" stackId="3" startPc="268435622"/>
+<entry endPc="268435773" name="dataDuration" stackId="2" startPc="268435563"/>
+<entry endPc="268435774" name="info" stackId="1" startPc="268435559"/>
+<entry endPc="268436157" name="dc" stackId="1" startPc="268435774"/>
+<entry endPc="268436655" name="elementNumber" stackId="4" startPc="268436161"/>
+<entry endPc="268436655" name="previousSample" stackId="2" startPc="268436161"/>
+<entry endPc="268436655" name="currentSample" stackId="3" startPc="268436161"/>
+<entry endPc="268436656" name="dc" stackId="1" startPc="268436157"/>
+<entry endPc="268437918" name="elementNumber" stackId="8" startPc="268436660"/>
+<entry endPc="268437918" name="previousSample" stackId="6" startPc="268436660"/>
+<entry endPc="268437918" name="secondHalfSum" stackId="3" startPc="268436660"/>
+<entry endPc="268437918" name="firstHalfSum" stackId="2" startPc="268436660"/>
+<entry endPc="268437918" name="currentSample" stackId="7" startPc="268436660"/>
+<entry endPc="268437918" name="firstHalfCount" stackId="4" startPc="268436660"/>
+<entry endPc="268437918" name="secondHalfCount" stackId="5" startPc="268436660"/>
+<entry endPc="268437919" name="dc" stackId="1" startPc="268436656"/>
+<entry endPc="268438270" name="zoneHeight" stackId="6" startPc="268438140"/>
+<entry endPc="268438283" name="i" stackId="5" startPc="268438140"/>
+<entry endPc="268438286" name="colors" stackId="4" startPc="268437923"/>
+<entry endPc="268438286" name="color" stackId="3" startPc="268437923"/>
+<entry endPc="268438286" name="reverseHeartRateZones" stackId="2" startPc="268437923"/>
+<entry endPc="268438287" name="dc" stackId="1" startPc="268437919"/>
+<entry endPc="268438469" name="i" stackId="2" startPc="268438380"/>
+<entry endPc="268438470" name="dc" stackId="1" startPc="268438287"/>
+<entry endPc="268438582" name="minHeartRate" stackId="4" startPc="268438474"/>
+<entry endPc="268438582" name="heightMultiplier" stackId="5" startPc="268438474"/>
+<entry endPc="268438582" name="maxHeartRate" stackId="3" startPc="268438474"/>
+<entry endPc="268438583" name="dc" stackId="2" startPc="268438470"/>
+<entry endPc="268438583" name="HR" stackId="1" startPc="268438470"/>
+<entry endPc="268438614" name="state" stackId="1" startPc="268438606"/>
+<entry endPc="268438664" name="state" stackId="1" startPc="268438656"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="GraphicalHeartRateView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="GraphicalHeartRateView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="GraphicalHeartRateView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="GraphicalHeartRateView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="plotHRData2" parent="GraphicalHeartRateView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="plotHRData2ACTUAL" parent="GraphicalHeartRateView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="fillUpScreen" parent="GraphicalHeartRateView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHRzoneDividers" parent="GraphicalHeartRateView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="HR2height" parent="GraphicalHeartRateView">
+<param id="HR"/>
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="GraphicalHeartRateApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="GraphicalHeartRateApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="GraphicalHeartRateApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="GraphicalHeartRateApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="GraphicalHeartRateApp" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="GraphicalHeartRateView" type="class"/>
+<dataEntry offset="460" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="539" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="578" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="609" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="640" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="671" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="702" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+</debugInfo>
